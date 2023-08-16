@@ -48,7 +48,7 @@ export KUBECONFIG=~/Downloads/kubeconfig
 
 oc get nodes
 
-![show nodes](assets/n4=6.webp)
+![show nodes](assets/n6.webp)
 
 ## Setup an authentication provider using htpasswd:
 The kubeadmin user is not permanent, you need to set another authentication method. The easiest way to set up a local user is to use htpasswd. Create users.htpasswd for testuser with the following command:
